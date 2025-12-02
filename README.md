@@ -4,7 +4,11 @@ A simple, console-based Bank Management System written in C, designed for beginn
 This project stores account information in a file (bank.dat) and provides core banking functionalities like account creation, deposit, withdrawal, and balance inquiry.
 
 
+
+
 🚀 FEATURES:
+
+
 
 
 ✔ Create New Bank Account
@@ -16,16 +20,24 @@ This project stores account information in a file (bank.dat) and provides core b
 ✔ Simple and beginner-friendly C code
 
 
+
+
 📂 PROJECT STRUCTURE:
+
+
 
 
 📁 bank-management-system
 ├── BANK_MANAGEMENT_SYSTEM.C       # Main source code
-├── bank.exe      # Auto-generated file storing account data
-└── README.md     # Documentation
+├── bank.exe                       # Auto-generated file storing account data
+└── README.md                      # Documentation
+
+
 
 
 🛠 TECHNOLOGIES USED:
+
+
 
 
 C Programming Language
@@ -34,7 +46,11 @@ Structures
 Basic Console I/O
 
 
+
+
 🧾 HOW TO RUN AND COMPILE:
+
+
 
 
 Compile
@@ -46,7 +62,11 @@ Run
 The program will create a bank.dat file automatically to store account records.
 
 
+
+
 📸 PROGRAM MENU:
+
+
 
 
 ===== BANK MANAGEMENT SYSTEM =====
